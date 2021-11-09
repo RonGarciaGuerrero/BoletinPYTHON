@@ -1,3 +1,4 @@
+#Autor: Ronald Garcia Guerrero
 # 4- Escribir una función que tome un carácter y devuelva True si es una vocal, de lo contrario devuelve False.
 char = input('Introduce un caracter: ')
 vocales ="aeiou" 

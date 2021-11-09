@@ -1,3 +1,4 @@
+#Autor: Ronald Garcia Guerrero
 # 2- Definir una función max_de_tres(), que tome tres números como argumentos y devuelva el mayor de ellos.
 
 a=input('Introduce el primer número: ') 
